@@ -2,7 +2,7 @@
 
 **Trial attorney · AI systems builder · Extra Class ham · former conflict-zone paramedic**
 
-I run local LLMs on a multi-node Linux cluster, much to my wife's annoyance. During the day, I'm a medical malpractice litigator in businest court system in the US with a side hustle as an international law attorney. Before law school I held did FSB border liaison and medical oversite on a U.S. Army Corps of Engineers project in northern Afghanistan, and ran medical operations in besieged Sarajevo. These facts are connected.  I've spent a lot of time in situations that make me wonder why people I've never met want to shoot me so badly.  Usually, that only happens after they've known me for awhile.  
+I run local LLMs on a multi-node Linux cluster, much to my wife's annoyance. During the day, I'm a medical malpractice litigator in the busiest court system in the US with a side hustle as an international law attorney. Before law school I worked on a U.S. Army Corps of Engineers project in northern Afghanistan, and ran medical operations in besieged Sarajevo, as well as close consulting in dozens of other countries in the Mid-East, Africa and Asia for the oil and gas and construction industries. These facts are connected.  I've spent a lot of time in situations that make me wonder why people I've never met want to shoot me so badly.  Usually, that only happens after they've known me for awhile.  
 
 ---
 
