@@ -41,13 +41,8 @@ My interest in machine learning isn't a recent professional pivot — it's the e
 
 ## Background
 
-Most lawyers dealing with AI have a tech-transactional pedigree. My background is different.
-
-A decade as a medic and security consultant took me to northern Afghanistan (U.S. ACE Tajikistan-Afghanistan Bridge Project, Kunduz border region), Sakhalin Island, Angola, offshore Nigeria, Pakistan, and the Balkans — including medical operations in besieged Sarajevo and Mostar during the Bosnian War. The Afghanistan years involved regular liaison with Russian FSB border officials and the Tajik Committee for National Security on incidents involving U.S. and third-country nationals. Offshore safety work off Malaysia added pirate threat monitoring and emergency training.
-
+A decade as a medic and security consultant took me to northern Afghanistan (U.S. ACE Tajikistan-Afghanistan Bridge Project, Kunduz border region), Sakhalin Island, Angola, offshore Nigeria, Pakistan, and the Balkans — including medical operations in besieged Sarajevo and Mostar during the Bosnian War. 911 and critical care flight paramedic in the Southwest USA and at Ft. Bliss Army Base EMS.
 Then: JD at UNM, federal judicial extern, trial attorney in Chicago trying complex medical malpractice cases.
-
-Along the way: the only law student to serve on the ABA CEELI Council (advising the Rule of Law initiative on Bulgaria, Kazakhstan, and Uzbekistan matters alongside U.S. circuit court justices); published on Russia/Eurasia legal systems for the ABA; appointed by the New Mexico Governor to the Interstate Mutual Aid Committee.
 
 Now I build legal AI tooling, run Linux clusters, and look for opportunities at the intersection of law, AI, and operational reality.
 
