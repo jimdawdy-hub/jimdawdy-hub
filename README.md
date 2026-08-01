@@ -59,7 +59,7 @@ Merged pull requests in upstream projects:
 
 ## Why AI
 
-My interest in machine learning isn't a recent professional pivot — it's the endpoint of a lifelong obsession that started with science fiction. Heinlein's self-aware systems, Asimov's Three Laws and their elegant failure modes, Gerrold's HARLIE grappling with consciousness in real time, Daniel Keys Moran's AIs navigating a surveillance state, Iain Banks's Culture Minds running post-scarcity civilization at inhuman scale — I've always been fascinated by the idea of AI, but never thought I would live to see the day they actually become reality. Running local models isn't a hobby; it's the part where the fiction starts to have a pulse.
+My interest in machine learning isn't a recent professional pivot — it's the endpoint of a lifelong obsession that started with science fiction. Heinlein's self-aware systems, Asimov's Three Laws and their elegant failure modes, Gerrold's HARLIE grappling with consciousness in real time, Daniel Keys Moran's AIs navigating a surveillance state, Iain Banks's Culture Minds running post-scarcity civilization at inhuman scale — I've always been fascinated by the idea of AI, but never thought I would live to see the day they actually become reality.
 
 ---
 
@@ -67,8 +67,6 @@ My interest in machine learning isn't a recent professional pivot — it's the e
 
 A decade as a medic and security consultant took me to northern Afghanistan (U.S. ACE Tajikistan-Afghanistan Bridge Project, Kunduz border region), Sakhalin Island, Angola, offshore Nigeria, Pakistan, and the Balkans — including medical operations in besieged Sarajevo and Mostar during the Bosnian War. 911 and critical care flight paramedic in the Southwest USA and at Ft. Bliss Army Base EMS.
 Then: JD at UNM, federal judicial extern, trial attorney in Chicago trying complex medical malpractice cases.
-
-Now I build legal AI tooling, run Linux clusters, and look for opportunities at the intersection of law, AI, and operational reality.
 
 Conversational Russian. Intermediate Esperanto. Basic Spanish and Chinese.
 
