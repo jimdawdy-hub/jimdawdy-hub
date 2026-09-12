@@ -53,13 +53,13 @@ Merged pull requests in upstream projects:
 
 ## Stack
 
-`Linux` `Python` `TypeScript` `Ollama` `vLLM` `ROCm` `RAG` `FFmpeg` `Docker`
+`Linux` `Python` `TypeScript` `Ollama` `vLLM` `ROCm` `RAG` `FFmpeg` `Docker` `Proxmox` `PostgreSQL`
 
 ---
 
 ## Why AI
 
-My interest in machine learning isn't a recent professional pivot — it's the endpoint of a lifelong obsession that started with science fiction. Heinlein's self-aware systems, Asimov's Three Laws and their elegant failure modes, Gerrold's HARLIE grappling with consciousness in real time, Daniel Keys Moran's AIs navigating a surveillance state, Iain Banks's Culture Minds running post-scarcity civilization at inhuman scale — I've always been fascinated by the idea of AI, but never thought I would live to see the day they actually become reality.
+My interest in machine learning isn't a recent professional pivot — it's the endpoint of a lifelong obsession that started with science fiction. Heinlein's self-aware systems, Asimov's Three Laws and their elegant failure modes, Gerrold's HARLIE grappling with consciousness in real time, Daniel Keys Moran's AIs navigating a surveillance state, Iain Banks's Culture Minds running post-scarcity civilization at inhuman scale — I've always been fascinated by the idea of AI, but never thought I would live to see the day they actually become reality.  I am incredibly excited to wake up every day and learn something new.
 
 ---
 
@@ -74,7 +74,7 @@ Conversational Russian. Intermediate Esperanto. Basic Spanish and Chinese.
 
 ## Outside the terminal
 
-Warhammer 40K · Esperanto · Central Asian history · collecting historical maps and 15th–16th century books
+Warhammer 40K · Esperanto · Central Asian history · collecting historical maps and 15th–16th century books · Beekeeping · Ham radio (KQ9I) · Philosophy (my undergrad minor) · languages · travel · artisan blacksmithing · SciFi
 
 ---
 
