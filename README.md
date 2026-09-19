@@ -1,8 +1,8 @@
 # James Dawdy
 
-**Trial attorney · AI systems builder · former conflict-zone paramedic**
+**Attorney · AI systems builder · former conflict-zone paramedic**
 
-I run local LLMs on a multi-node Linux cluster, much to my wife's annoyance. During the day, I'm a medical malpractice litigator in the busiest court system in the US with a side hustle as an international law attorney. Before law school I worked on a U.S. Army Corps of Engineers project in northern Afghanistan, and ran medical operations in besieged Sarajevo, as well as medical, security and safety consulting in dozens of other countries in the Mid-East, Africa and Asia for the oil and gas and construction industries. I've spent a lot of time in situations that make me wonder why people I've never met want to shoot me so badly. Usually, that only happens after they get to know me.
+I run local LLMs on a multi-node Linux cluster, much to my wife's annoyance. I'm the founder and CEO of Freecase AI Inc., a company which develops AI powered case law search systems for the legal profession.  I'm also an attorney practicing in the busiest court system in the US. As an undergrad I studied Chinese, history and philosophy.  Before i got my juris doctor at UNM, I worked on a U.S. Army Corps of Engineers project in northern Afghanistan, and ran medical operations in besieged Sarajevo, as well as medical, security and safety consulting in dozens of other countries in the Mid-East, Africa and Asia for the oil and gas and construction industries. I've spent a lot of time in situations that make me wonder why people I've never met want to shoot me so badly. Usually, that only happens after they get to know me.
 
 ---
 
@@ -57,24 +57,24 @@ Merged pull requests in upstream projects:
 
 ---
 
-## Why AI
+## AI
 
-My interest in machine learning isn't a recent professional pivot — it's the endpoint of a lifelong obsession that started with science fiction. Heinlein's self-aware systems, Asimov's Three Laws and their elegant failure modes, Gerrold's HARLIE grappling with consciousness in real time, Daniel Keys Moran's AIs navigating a surveillance state, Iain Banks's Culture Minds running post-scarcity civilization at inhuman scale — I've always been fascinated by the idea of AI, but never thought I would live to see the day they actually become reality.  I am incredibly excited to wake up every day and learn something new.
+My interest in machine learning isn't a recent professional pivot — it's the endpoint of a lifelong obsession that started with science fiction. Reading Heinlein's self-aware systems, Asimov's Three Laws and their elegant failure modes, Gerrold's HARLIE grappling with consciousness in real time, Daniel Keys Moran's AIs navigating a surveillance state, Iain Banks's Culture Minds running post-scarcity civilization at inhuman scale motivated me to study Machine Learning.  Like most attorneys, I'm an autodidact. I started out with Dr. Andrew Ng's Machine Learning Specialization through Stanford Online.  I especially recommend anything by Dr. Ng as a good place to start learning about AI. I am incredibly excited to wake up every day and learn something new.
 
 ---
 
 ## Background
 
-A decade as a medic and security consultant took me to northern Afghanistan (U.S. ACE Tajikistan-Afghanistan Bridge Project, Kunduz border region), Sakhalin Island, Angola, offshore Nigeria, Pakistan, and the Balkans — including medical operations in besieged Sarajevo and Mostar during the Bosnian War. 911 and critical care flight paramedic in the Southwest USA and at Ft. Bliss Army Base EMS.
+Studied Chinese at the Beijing Language Institute and Shanghai University in the late 80s (sadly, I've forgotten most of it). I then got sidetracked by an addiction to adrenaline. A decade as a medic and security consultant took me to northern Afghanistan (U.S. ACE Tajikistan-Afghanistan Bridge Project, Kunduz border region), Sakhalin Island, Angola, offshore Nigeria, Pakistan, and the Balkans — including medical operations in besieged Sarajevo and Mostar during the Bosnian War. 911 and critical care flight paramedic in the Southwest USA.  Along the way I finished my degree at ASU.
 Then: JD at UNM, federal judicial extern, trial attorney in Chicago trying complex medical malpractice cases.
 
-Conversational Russian. Intermediate Esperanto. Basic Spanish and Chinese.
+Conversational Russian and Esperanto speaker. Basic Spanish and Chinese.
 
 ---
 
 ## Outside the terminal
 
-Warhammer 40K · Esperanto · Central Asian history · collecting historical maps and 15th–16th century books · Beekeeping · Ham radio (KQ9I) · Philosophy (my undergrad minor) · languages · travel · artisan blacksmithing · SciFi
+Warhammer 40K · Esperanto · Central Asian history · collecting historical maps and 15th–16th century books · Beekeeping · Ham radio (KQ9I) · Philosophy · languages · travel · artisan blacksmithing · SciFi
 
 ---
 
