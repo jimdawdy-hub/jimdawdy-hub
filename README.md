@@ -44,7 +44,7 @@ Merged pull requests in upstream projects:
 
 | Project | What landed |
 |---|---|
-| [unslothai/unsloth](https://github.com/unslothai/unsloth) | Studio fixes for chat auto-load, llama.cpp args, and editable installs ([#5900](https://github.com/unslothai/unsloth/pull/5900), [#5902](https://github.com/unslothai/unsloth/pull/5902), [#5909](https://github.com/unslothai/unsloth/pull/5909)) |
+| [unslothai/unsloth](https://github.com/unslothai/unsloth) | Studio fixes for chat auto-load, model-loading status polling, llama.cpp args, editable installs, and navigation-context loss ([#5900](https://github.com/unslothai/unsloth/pull/5900), [#5901](https://github.com/unslothai/unsloth/pull/5901), [#5902](https://github.com/unslothai/unsloth/pull/5902), [#5909](https://github.com/unslothai/unsloth/pull/5909), [#6677](https://github.com/unslothai/unsloth/pull/6677)) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | LLM idle timeout escalation to model fallback; MiMo multi-turn tool-call fix ([#80449](https://github.com/openclaw/openclaw/pull/80449), [#81589](https://github.com/openclaw/openclaw/pull/81589)) |
 | [kapillamba4/code-memory](https://github.com/kapillamba4/code-memory) | Threading crash, duplicate symbols, logging, and embedding insert fixes ([#11](https://github.com/kapillamba4/code-memory/pull/11)) |
 | [daggerhashimoto/openclaw-nerve](https://github.com/daggerhashimoto/openclaw-nerve) | Whisper Vulkan GPU backend on Linux ([#319](https://github.com/daggerhashimoto/openclaw-nerve/pull/319)) |
